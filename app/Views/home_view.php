@@ -1,5 +1,6 @@
-<?= $this->extend('layouts/template-home'); ?>
+<?= $this->extend('layouts/template_home'); ?>
 <?= $this->section('content'); ?>
+
 <section>
 
     <h1>About this page</h1>

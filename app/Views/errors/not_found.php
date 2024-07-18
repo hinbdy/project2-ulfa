@@ -19,8 +19,7 @@
             background-clip: border-box;
             border: 1px solid rgba(0, 0, 0, 0.04);
             border-radius: .25rem;
-        } .
-            card .card-header {
+        } .card .card-header {
             background-color: #fff;
             border-bottom: none;
         }
